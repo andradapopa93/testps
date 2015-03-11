@@ -1,0 +1,8 @@
+D:\Student\30234\popa\Calculator\Calculator\obj\x86\Debug\Calculator.Form1.resources
+D:\Student\30234\popa\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+D:\Student\30234\popa\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+D:\Student\30234\popa\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Student\30234\popa\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Student\30234\popa\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+D:\Student\30234\popa\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+D:\Student\30234\popa\Calculator\Calculator\obj\x86\Debug\Calculator.Form2.resources
